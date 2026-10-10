@@ -1,5 +1,5 @@
 ## Vitor T. L. Dias
-**`Futuro desenvolvedor FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 > *Estudante de Ciência da Computação & Entusiasta de Tecnologia*
 
 Natural de Minas Gerais 🔺, atualmente cursando **Ciência da Computação na UNA (Sete Lagoas)**. Tenho como meta construir uma trajetória consistente na área de TI, conectando o desenvolvimento de código ao universo da segurança da informação.
