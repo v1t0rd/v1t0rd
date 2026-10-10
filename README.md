@@ -1,4 +1,4 @@
-## Vitor T. L. Dias
+## Vitor Tadeu Lopes Dias
 **`Futuro Desenvolvedor FullStack`**
 > *Estudante de Ciência da Computação & Entusiasta de Tecnologia*
 
